@@ -47,4 +47,4 @@
 ## Design Decisions and Approach:
 #### The queries are designed to fulfill the requirements of the exercise, focusing on doctors,patients in relation to Admission.
 #### Updated the values as per the correct schema.
-#### Executed required sql queriws for completion of test case.
+#### Executed required sql queries for correct implementation of test cases.
