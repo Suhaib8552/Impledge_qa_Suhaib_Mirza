@@ -3,7 +3,7 @@
 #### Using Selenium WebDriver, this Python script automates Test Cases 01 (Add a package) and 02 (Delete a package). After navigating to the designated application URL and interacting with the web components to complete the necessary tasks, the script ends the browser session.
 
 ## Steps to Execute:
-####  Python
+#### Install Python
 #### Install Selenium
 #### Download WebDriver: Download the appropriate WebDriver for your browser (e.g., ChromeDriver for Chrome) and ensure it's in your system PATH.
 #### Update the Script
